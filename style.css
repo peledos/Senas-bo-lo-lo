@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(86, 87, 87);
+    color: rgb(228, 230, 231);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+a:hover{
+    cursor: pointer;
+    background-color: blue;
+    font-size: 1.2rem;
+}
